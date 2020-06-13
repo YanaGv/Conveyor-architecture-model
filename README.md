@@ -8,6 +8,6 @@
 
 <img src=https://github.com/YanaGv/MRZvIS/blob/master/images/ignor.jpg>
 
-<img src=https://github.com/YanaGv/MRZvIS/blob/master/images/dushevno.jpg width="540" height="380" border="10">
+<img src=https://github.com/YanaGv/MRZvIS/blob/master/images/dushevno.jpg width="500" height="380" border="0">
 
 <img src=https://github.com/YanaGv/MRZvIS/blob/master/images/bear.jpg>
